@@ -9,4 +9,6 @@ build/
 coverage/
 __pycache__/
 *.py[cod]
+community_data.json
+community_data.json.tmp
 .DS_Store
