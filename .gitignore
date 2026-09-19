@@ -1,6 +1,8 @@
 .env
 *.key
 *.pem
+community_state.json
+community-*.json
 node_modules/
 .venv/
 venv/
